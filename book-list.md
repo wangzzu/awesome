@@ -27,6 +27,7 @@
 
 1. :+1:[《曾国藩》](https://book.douban.com/subject/5944601/)，2015.10；
 2. :sunny:[《人类简史》](https://book.douban.com/subject/25985021/)，[人类简史，一段不知走向何处的简史](http://wangzzu.github.io/2016/10/23/brief-history-of-humankind/)，2016.7～2016.10；
+
 ----------
 # 科学
 
