@@ -27,6 +27,7 @@
 
 1. :+1:[《曾国藩》](https://book.douban.com/subject/5944601/)，2015.10；
 2. :sunny:[《人类简史》](https://book.douban.com/subject/25985021/)，[人类简史，一段不知走向何处的简史](http://wangzzu.github.io/2016/10/23/brief-history-of-humankind/)，2016.7～2016.10；
+3. :sunny:[《中国历代政治得失》](https://book.douban.com/subject/11229072/),[别人向上，我们却在向下](http://wangzzu.github.io/2017/01/08/book/),2017.01；
 
 ----------
 # 科学
@@ -61,7 +62,7 @@
 # 政治社会学
 
 1. :+1:[《野火集》](https://book.douban.com/subject/1426971/)，2015.11；
-2. :+1:[观念的水位](https://book.douban.com/subject/20463108/)，[观念在变化、在成长](http://wangzzu.github.io/2016/11/25/book/)，2016.11;
+2. :+1:[《观念的水位》](https://book.douban.com/subject/20463108/)，[观念在变化、在成长](http://wangzzu.github.io/2016/11/25/book/)，2016.11;
 
 ---------------
 # 其他
