@@ -28,7 +28,7 @@
 1. :+1:[《曾国藩》](https://book.douban.com/subject/5944601/)，2015.10；
 2. :sunny:[《人类简史》](https://book.douban.com/subject/25985021/)，[人类简史，一段不知走向何处的简史](http://wangzzu.github.io/2016/10/23/brief-history-of-humankind/)，2016.7～2016.10；
 3. :sunny:[《中国历代政治得失》](https://book.douban.com/subject/11229072/),[别人向上，我们却在向下](http://wangzzu.github.io/2017/01/08/book/)，2017.01；
-4. :sunnay:[《人类群星闪烁时》](https://book.douban.com/subject/3757732/)，[人类的群星闪耀时——之辉煌时刻](http://www.jianshu.com/p/50a7553f5cf0)，2017.03；
+4. :sunny:[《人类群星闪烁时》](https://book.douban.com/subject/3757732/)，[人类的群星闪耀时——之辉煌时刻](http://www.jianshu.com/p/50a7553f5cf0)，2017.03；
 
 ----------
 # 科学
