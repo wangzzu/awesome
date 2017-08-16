@@ -32,7 +32,7 @@
 3. :sunny:[《中国历代政治得失》](https://book.douban.com/subject/11229072/),[别人向上，我们却在向下](http://wangzzu.github.io/2017/01/08/book/)，2017.01；
 4. :sunny:[《人类群星闪烁时》](https://book.douban.com/subject/3757732/)，[人类的群星闪耀时——之辉煌时刻](http://www.jianshu.com/p/50a7553f5cf0)，2017.03；
 5. :sunny:[《你一定爱读的极简欧洲史》](https://book.douban.com/subject/5366248/)，[欧洲简史](http://www.jianshu.com/p/9b3a272ddd62)，2017.03；
-6. :sunny:[未来简史](https://book.douban.com/subject/26945094/)，2017.07；
+6. :sunny:[《未来简史》](https://book.douban.com/subject/26945094/)，2017.07；
 
 ----------
 # 科学
@@ -40,6 +40,7 @@
 1. :+1:[《文明之光 Ⅰ》](https://book.douban.com/subject/25902942/)，2015.12；
 2. :+1:[《文明之光 Ⅱ》](https://book.douban.com/subject/25902222/)，2016.01；
 3. :+1:[《文明之光 Ⅲ》](https://book.douban.com/subject/26275177/)，2016.04；
+4. :+1:[《智能时代》](https://book.douban.com/subject/26838557/)，2017.08；
 
 
 -----------
