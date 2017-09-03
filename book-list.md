@@ -12,7 +12,8 @@
 - [心理学](https://github.com/wangzzu/awesome/blob/master/book-list.md#心理学) 
 - [其他](https://github.com/wangzzu/awesome/blob/master/book-list.md#其他)
 - [技术](https://github.com/wangzzu/awesome/blob/master/book-list.md#技术)
- - [大数据](https://github.com/wangzzu/awesome/blob/master/book-list.md#大数据)；
+  - [大数据](https://github.com/wangzzu/awesome/blob/master/book-list.md#大数据)
+  - [Java](https://github.com/wangzzu/awesome/blob/master/book-list.md#Java)
 
 ------------
 # 文学（小说）
@@ -43,12 +44,6 @@
 3. :+1:[《文明之光 Ⅲ》](https://book.douban.com/subject/26275177/)，2016.04；
 4. :+1:[《智能时代》](https://book.douban.com/subject/26838557/)，2017.08；
 
-
------------
-# 技术
-
-1. :+1:[《大型网站系统与 Java 中间件实战》](https://book.douban.com/subject/25867042/)，2016.10；
-
 ---------
 # 经济管理
 
@@ -78,6 +73,8 @@
 2. :+1:[《技巧》](https://book.douban.com/subject/26874593/)，[技巧，其实并没有什么技巧，只不过多了些毅力罢了](http://wangzzu.github.io/2016/11/29/book/)，2016.10-2016.11；
 3. [《我是个算命先生》](https://book.douban.com/subject/10506822/)，2016.5； 
 
+-----
+
 # 技术类
 
 记录技术方面看过的书籍（要有相应的读书笔记）。
@@ -88,3 +85,6 @@
 
 ## 计算机基础
 
+## Java
+
+1. :+1:[《大型网站系统与 Java 中间件实战》](https://book.douban.com/subject/25867042/)，2016.10；
