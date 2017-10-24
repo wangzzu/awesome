@@ -20,6 +20,10 @@
 
 1. :+1:[《平凡的世界》](https://book.douban.com/subject/10517238/)，2015.11；
 2. :+1:[《围城》](https://book.douban.com/subject/1069848/)，2016.03；
+3. :sunny:[《三体1》](https://book.douban.com/subject/26427702/)，2017，05；
+4. :sunny:[《三体2》](https://book.douban.com/subject/26427703/)，2017，07；
+5. :sunny:[《三体3》](https://book.douban.com/subject/26427705/)，2017，10；
+
 
 ------------
 # 传记
@@ -80,6 +84,8 @@
 记录技术方面看过的书籍（要有相应的读书笔记）。
 
 ## 大数据
+
+1. :+1:[《大数据日知录:架构与算法》](https://www.amazon.cn/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%97%A5%E7%9F%A5%E5%BD%95-%E6%9E%B6%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95-%E5%BC%A0%E4%BF%8A%E6%9E%97/dp/B00NGW4EAG/ref=sr_1_1?ie=UTF8&qid=1508815047&sr=8-1&keywords=%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%97%A5%E7%9F%A5%E5%BD%95)，2017.09；
 
 ## AI
 
