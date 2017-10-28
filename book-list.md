@@ -47,6 +47,7 @@
 2. :+1:[《文明之光 Ⅱ》](https://book.douban.com/subject/25902222/)，2016.01；
 3. :+1:[《文明之光 Ⅲ》](https://book.douban.com/subject/26275177/)，2016.04；
 4. :+1:[《智能时代》](https://book.douban.com/subject/26838557/)，2017.08；
+5. :+1:[《信息简史》](https://book.douban.com/subject/25752043/)，2017.10；
 
 ---------
 # 经济管理
