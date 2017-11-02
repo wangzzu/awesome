@@ -20,9 +20,9 @@
 
 1. :+1:[《平凡的世界》](https://book.douban.com/subject/10517238/)，2015.11；
 2. :+1:[《围城》](https://book.douban.com/subject/1069848/)，2016.03；
-3. :sunny:[《三体1》](https://book.douban.com/subject/26427702/)，2017，05；
-4. :sunny:[《三体2》](https://book.douban.com/subject/26427703/)，2017，07；
-5. :sunny:[《三体3》](https://book.douban.com/subject/26427705/)，2017，10；
+3. :sunny:[《三体1》](https://book.douban.com/subject/26427702/)，2017.05；
+4. :sunny:[《三体2》](https://book.douban.com/subject/26427703/)，2017.07；
+5. :sunny:[《三体3》](https://book.douban.com/subject/26427705/)，2017.10；
 6. :sunny:[《解忧杂货店》](https://book.douban.com/subject/25862578/)，2017.11；
 
 
