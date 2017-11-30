@@ -8,6 +8,9 @@
 - [历史](https://github.com/wangzzu/awesome/blob/master/book-list.md#历史)
 - [科学](https://github.com/wangzzu/awesome/blob/master/book-list.md#科学)
 - [经济管理](https://github.com/wangzzu/awesome/blob/master/book-list.md#经济管理)
+  - [管理类](https://github.com/wangzzu/awesome/blob/master/book-list.md#管理类)
+  - [经济](https://github.com/wangzzu/awesome/blob/master/book-list.md#经济) 
+  - [投资](https://github.com/wangzzu/awesome/blob/master/book-list.md#投资)
 - [思维](https://github.com/wangzzu/awesome/blob/master/book-list.md#思维)
 - [心理学](https://github.com/wangzzu/awesome/blob/master/book-list.md#心理学) 
 - [其他](https://github.com/wangzzu/awesome/blob/master/book-list.md#其他)
@@ -55,7 +58,15 @@
 ---------
 # 经济管理
 
+## 管理类
+
 1. :+1:[《从0到1》](https://book.douban.com/subject/26297606/)，2016.11-2016.12（尽快把读书笔记补上）；
+
+## 经济
+
+1. :+1:[《中产阶级如何保护自己的财富》](https://book.douban.com/subject/27015138/)，2017.11.30；
+
+## 投资
 
 ----------
 # 思维
