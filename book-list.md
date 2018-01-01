@@ -65,6 +65,7 @@
 ## 经济
 
 1. :+1:[《中产阶级如何保护自己的财富》](https://book.douban.com/subject/27015138/)，2017.11；
+2. [《你为什么是穷人：有钱人和你想的不一样》](https://book.douban.com/subject/10426929/)，[简单的理财知识](https://www.jianshu.com/p/9e4a37a83a0d)，2017.12；
 
 ## 投资
 
