@@ -29,6 +29,12 @@
 6. :sunny:[《解忧杂货店》](https://book.douban.com/subject/25862578/)，东野圭吾，2017.11；
 7. :sunny:[《白夜行》](https://book.douban.com/subject/3259440/)，东野圭吾，2017.11；
 8. :sunny:[《恶意》](https://book.douban.com/subject/10554309/)，东野圭吾，2017.12； 
+9. :+1:《人为什么活着》，王小波，201801；
+10. 《分身》，东野圭吾，201801；
+11. 《幻夜》，东野圭吾，201802；
+12. 《嫌疑人 X 的现身》，201803；
+13. :+1:[《麦田里的守望者》](https://book.douban.com/subject/2053249/)，201806；
+
 
 ------------
 # 传记
@@ -45,6 +51,7 @@
 5. :sunny:[《你一定爱读的极简欧洲史》](https://book.douban.com/subject/5366248/)，[欧洲简史](http://www.jianshu.com/p/9b3a272ddd62)，2017.03；
 6. :sunny:[《未来简史》](https://book.douban.com/subject/26945094/)，2017.07；
 7. :sunny:[《走出帝制》](https://baike.baidu.com/item/%E8%B5%B0%E5%87%BA%E5%B8%9D%E5%88%B6/18782950?fr=aladdin)，（这本书已经被封了）2017.11；
+8. :sunny: [《今日简史》](https://book.douban.com/subject/30259720/)，201809（计划春节期间再看一遍）；
 
 ----------
 # 科学
@@ -54,6 +61,7 @@
 3. :+1:[《文明之光 Ⅲ》](https://book.douban.com/subject/26275177/)，2016.04；
 4. :+1:[《智能时代》](https://book.douban.com/subject/26838557/)，2017.08；
 5. :+1:[《信息简史》](https://book.douban.com/subject/25752043/)，2017.10；
+6. :+1:[《AI 未来》](https://book.douban.com/subject/30305583/)，201811；
 
 ---------
 # 经济管理
@@ -66,6 +74,7 @@
 
 1. :+1:[《中产阶级如何保护自己的财富》](https://book.douban.com/subject/27015138/)，2017.11；
 2. [《你为什么是穷人：有钱人和你想的不一样》](https://book.douban.com/subject/10426929/)，[简单的理财知识](https://www.jianshu.com/p/9e4a37a83a0d)，2017.12；
+3. :sunny:[《中央帝国的财政密码》](https://book.douban.com/subject/27007549/)，201805；
 
 ## 投资
 
@@ -74,6 +83,9 @@
 
 1. :sunny:[《把时间当做朋友》](https://book.douban.com/subject/25749845/)，2016.05（准备再看一遍，把读书笔记补上）；
 2. :sunny:[《精进》](https://book.douban.com/subject/26761696/)，2016.10-2016.12（准备再看一遍，对每一章都做一篇总结）；
+3. :+1:《新生，七年就是一辈子》，201804；
+4. :sunny:[《学会提问》](https://book.douban.com/subject/1504957/)，201808；
+
 
 ---------------
 
@@ -92,6 +104,8 @@
 1. :+1:[《大学之路 上下》](https://book.douban.com/subject/26584286/)，2015.11；
 2. :+1:[《技巧》](https://book.douban.com/subject/26874593/)，[技巧，其实并没有什么技巧，只不过多了些毅力罢了](http://wangzzu.github.io/2016/11/29/book/)，2016.10-2016.11；
 3. [《我是个算命先生》](https://book.douban.com/subject/10506822/)，2016.5； 
+4. :+1:[《槽边往事》](https://book.douban.com/subject/26679240/)，201804；
+5. :sunny:[《态度》](https://book.douban.com/subject/30346218/)，201811；
 
 -----
 
