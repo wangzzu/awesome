@@ -27,3 +27,9 @@
 3. 第三遍：从头再读一遍，看下自己是否能够完全理解/明白论文的观点，否则重复1、2步。
  
 未来保证每个月至少读一篇优秀论文。
+
+分布式（流处理）领域的论文推荐列表：
+
+1. [Readings in Streaming Systems](https://github.com/lw-lin/streaming-readings)；
+2. [论文阅读笔记（分布式，虚拟化，容器，自动机器学习）](https://github.com/dyweb/papers-notebook)；
+3. [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)；
