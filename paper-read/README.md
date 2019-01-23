@@ -33,3 +33,4 @@
 1. [Readings in Streaming Systems](https://github.com/lw-lin/streaming-readings)；
 2. [论文阅读笔记（分布式，虚拟化，容器，自动机器学习）](https://github.com/dyweb/papers-notebook)；
 3. [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)；
+4. [大数据必读文献](https://www.52cs.com/archives/1350)；
