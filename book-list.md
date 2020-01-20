@@ -5,8 +5,8 @@
 # 索引
 - [文学（小说）](https://github.com/wangzzu/awesome/blob/master/book-list.md#文学小说)
 - [历史](https://github.com/wangzzu/awesome/blob/master/book-list.md#历史)
- - [日本史](https://github.com/wangzzu/awesome/blob/master/book-list.md#历史)
- - [自传](https://github.com/wangzzu/awesome/blob/master/book-list.md#自传)
+  - [日本史](https://github.com/wangzzu/awesome/blob/master/book-list.md#日本史)
+  - [自传](https://github.com/wangzzu/awesome/blob/master/book-list.md#自传)
 - [科学](https://github.com/wangzzu/awesome/blob/master/book-list.md#科学)
 - [经济管理](https://github.com/wangzzu/awesome/blob/master/book-list.md#经济管理)
   - [管理类](https://github.com/wangzzu/awesome/blob/master/book-list.md#管理类)
