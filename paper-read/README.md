@@ -34,3 +34,4 @@
 2. [论文阅读笔记（分布式，虚拟化，容器，自动机器学习）](https://github.com/dyweb/papers-notebook)；
 3. [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)；
 4. [大数据必读文献](https://www.52cs.com/archives/1350)；
+5. [沈向洋：读论文的三个层次](https://mp.weixin.qq.com/s/GRY5tbRa3Oa-mD8PA4P2Xg)；
